@@ -7,6 +7,8 @@
     --cor-secundaria:  #67b165;
     --cor-destaque: #309b7e;
     --cor-fundo: #d8f6fab0;
+    --cor-fundo-alto-contraste: #000000;
+    --cor-texto-alto-contraste: #ffffff;
 }
 
 .cabeçalho-imagem {
@@ -42,13 +44,13 @@ body {
 }
 
 
-        /* Estilo de alto contraste */
+
         .alto-contraste {
-            background-color: #000000;
-            color: #ffffff;
+            background-color: var(--cor-fundo-alto-contraste);
+            color: var(--cor-texto-alto-contraste);
          
         }
-        /* Estilo do botão */
+
         .btn-alto-contraste {
             margin: 10px;
             position: fixed;
@@ -57,7 +59,7 @@ body {
     }
 
     .alto-contraste .modal-texto, .modal-title{
-        color:#000000
+        color: var(--cor-fundo-alto-contraste);
     }
     
 
