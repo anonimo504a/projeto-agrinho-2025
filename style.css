@@ -45,21 +45,21 @@ body {
 
 
 
-        .alto-contraste {
-            background-color: var(--cor-fundo-alto-contraste);
-            color: var(--cor-texto-alto-contraste);
+.alto-contraste {
+     background-color: var(--cor-fundo-alto-contraste);
+     color: var(--cor-texto-alto-contraste);
          
-        }
+ }
 
-        .btn-alto-contraste {
-            margin: 10px;
-            position: fixed;
-            top: 20px;
-            right: 20px;
-    }
+.btn-alto-contraste {
+     margin: 10px;
+     position: fixed;
+     top: 20px;
+     right: 20px;
+ }
 
-    .alto-contraste .modal-texto, .modal-title{
+.alto-contraste .modal-texto, .modal-title{
         color: var(--cor-fundo-alto-contraste);
-    }
+ }
     
 
