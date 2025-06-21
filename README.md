@@ -10,3 +10,5 @@ Tópicos abordados:
       *INTERDEPENDÊNCIA DO CAMPO E CIDADE;
       *RELAÇÕES E CONEXÕES;
       *PRESERVAÇÃO AMBIENTAL.
+
+      O projeto também conta com um audio autoral, que busca através do som do violão representar a tranquilidade e essência do campo, enquanto o som de teclado representaria a cidade, por ser mais moderno. 
