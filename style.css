@@ -67,9 +67,9 @@ body {
  }
 
  .link-quiz {
-    font-size: 15px;
+    font-size: 20px;
     background-color: #459242;
-    color: azure;
+    color: var(--cor-texto-alto-contraste);
     border-radius: 10%;
     padding: 10px;
     text-align: center;
