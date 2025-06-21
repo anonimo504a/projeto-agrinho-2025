@@ -65,5 +65,14 @@ body {
 .alto-contraste .modal-texto, .modal-title{
         color: var(--cor-fundo-alto-contraste);
  }
+
+ .link-quiz {
+    font-size: 15px;
+    background-color: #459242;
+    color: azure;
+    border-radius: 10%;
+    padding: 10px;
+    text-align: center;
+ }
     
 
