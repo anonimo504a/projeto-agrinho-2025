@@ -74,5 +74,9 @@ body {
     padding: 10px;
     text-align: center;
  }
+
+ a, .cor-link {
+    color: var(--cor-texto-alto-contraste);
+ }
     
 
