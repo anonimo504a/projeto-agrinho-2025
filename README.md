@@ -12,3 +12,5 @@ Tópicos abordados:
       *PRESERVAÇÃO AMBIENTAL.
 
  O projeto também conta com um audio autoral, que busca através do som do violão representar a tranquilidade e essência do campo, enquanto o som de teclado representaria a cidade, por ser mais moderno. 
+
+ Após interagir com o site, ainda é possivel realizar um quiz para testar o seu conhecimento sobre a conexão do campo e da cidade.
